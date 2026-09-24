@@ -1,0 +1,2244 @@
+{
+  "auction_case_count": [
+    {
+      "asOf": "2026-09-13",
+      "value": 396.0,
+      "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
+      "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
+      "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
+      "collectedAt": "2026-09-13 23:13:48"
+    },
+    {
+      "asOf": "2026-09-14",
+      "value": 389.0,
+      "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
+      "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
+      "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
+      "collectedAt": "2026-09-14 08:42:13"
+    },
+    {
+      "asOf": "2026-09-15",
+      "value": 414.0,
+      "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
+      "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
+      "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
+      "collectedAt": "2026-09-15 08:00:10"
+    },
+    {
+      "asOf": "2026-09-16",
+      "value": 424.0,
+      "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
+      "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
+      "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
+      "collectedAt": "2026-09-16 08:00:09"
+    },
+    {
+      "asOf": "2026-09-17",
+      "value": 431.0,
+      "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
+      "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
+      "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
+      "collectedAt": "2026-09-17 08:00:09"
+    },
+    {
+      "asOf": "2026-09-18",
+      "value": 424.0,
+      "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
+      "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
+      "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
+      "collectedAt": "2026-09-18 08:00:12"
+    },
+    {
+      "asOf": "2026-09-22",
+      "value": 367.0,
+      "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
+      "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
+      "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
+      "collectedAt": "2026-09-22 09:17:39"
+    },
+    {
+      "asOf": "2026-09-23",
+      "value": 379.0,
+      "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
+      "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
+      "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
+      "collectedAt": "2026-09-23 08:00:12"
+    }
+  ],
+  "auction_win_price_ratio": [
+    {
+      "asOf": "2025-09-30",
+      "value": 92.4,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2025-09 서울 아파트 경매 279건 중 132건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2025-10-31",
+      "value": 97.6,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2025-10 서울 아파트 경매 235건 중 89건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2025-11-30",
+      "value": 91.7,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2025-11 서울 아파트 경매 219건 중 102건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2025-12-31",
+      "value": 92.2,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2025-12 서울 아파트 경매 175건 중 72건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-01-31",
+      "value": 105.8,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-01 서울 아파트 경매 223건 중 86건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-02-28",
+      "value": 98.5,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-02 서울 아파트 경매 130건 중 51건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-03-31",
+      "value": 98.6,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-03 서울 아파트 경매 211건 중 79건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-04-30",
+      "value": 96.6,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-04 서울 아파트 경매 198건 중 81건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-05-31",
+      "value": 97.7,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-05 서울 아파트 경매 185건 중 68건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-06-30",
+      "value": 97.7,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-06 서울 아파트 경매 213건 중 67건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-07-31",
+      "value": 95.9,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-07 서울 아파트 경매 239건 중 83건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-08-31",
+      "value": 95.5,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-08 서울 아파트 경매 215건 중 72건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-23 08:00:16"
+    }
+  ],
+  "auction_win_rate": [
+    {
+      "asOf": "2025-09-30",
+      "value": 47.3,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2025-09 서울 아파트 경매 279건 중 132건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2025-10-31",
+      "value": 37.9,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2025-10 서울 아파트 경매 235건 중 89건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2025-11-30",
+      "value": 46.6,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2025-11 서울 아파트 경매 219건 중 102건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2025-12-31",
+      "value": 41.1,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2025-12 서울 아파트 경매 175건 중 72건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-01-31",
+      "value": 38.6,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-01 서울 아파트 경매 223건 중 86건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-02-28",
+      "value": 39.2,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-02 서울 아파트 경매 130건 중 51건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-03-31",
+      "value": 37.4,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-03 서울 아파트 경매 211건 중 79건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-04-30",
+      "value": 40.9,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-04 서울 아파트 경매 198건 중 81건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-05-31",
+      "value": 36.8,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-05 서울 아파트 경매 185건 중 68건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-06-30",
+      "value": 31.5,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-06 서울 아파트 경매 213건 중 67건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-07-31",
+      "value": 34.7,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-07 서울 아파트 경매 239건 중 83건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-13 23:13:10"
+    },
+    {
+      "asOf": "2026-08-31",
+      "value": 33.5,
+      "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
+      "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
+      "note": "2026-08 서울 아파트 경매 215건 중 72건 매각(법원 공식 집계)",
+      "collectedAt": "2026-09-23 08:00:16"
+    }
+  ],
+  "base_rate": [
+    {
+      "asOf": "2024-01-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-01 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-02-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-02 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-03-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-03 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-04-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-04 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-05-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-05 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-06-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-06 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-07-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-07 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-08-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-08 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-09-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-09 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-10-01",
+      "value": 3.25,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-10 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-11-01",
+      "value": 3.0,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-11 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-12-01",
+      "value": 3.0,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-12 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-01-01",
+      "value": 3.0,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-01 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-02-01",
+      "value": 2.75,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-02 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-03-01",
+      "value": 2.75,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-03 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-04-01",
+      "value": 2.75,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-04 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-05-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-05 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-06-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-06 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-07-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-07 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-08-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-08 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-09-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-09 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-10-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-10 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-11-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-11 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-12 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-01-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-01 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-02-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-02 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-03-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-03 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-04-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-04 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-05-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-05 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 2.5,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-06 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-07-01",
+      "value": 2.75,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-07 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-08-01",
+      "value": 3.0,
+      "sourceName": "한국은행 ECOS 한국은행 기준금리",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-08 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+      "collectedAt": "2026-09-23 08:00:15"
+    }
+  ],
+  "jeonse_ratio": [
+    {
+      "asOf": "2025-09-01",
+      "value": 92.8685969,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-09-08",
+      "value": 92.93802614,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-09-15",
+      "value": 93.00593439,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-09-22",
+      "value": 93.09016686,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-09-29",
+      "value": 93.19844715,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-10-13",
+      "value": 93.35353971,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-10-20",
+      "value": 93.47158396,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-10-27",
+      "value": 93.59967888,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-11-03",
+      "value": 93.74171372,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-11-10",
+      "value": 93.8806149,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-11-17",
+      "value": 94.02307487,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-11-24",
+      "value": 94.15665319,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 94.28623991,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-12-08",
+      "value": 94.42425374,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-12-15",
+      "value": 94.57907181,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-12-22",
+      "value": 94.72605479,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2025-12-29",
+      "value": 94.85583513,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-01-05",
+      "value": 94.98516298,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-01-12",
+      "value": 95.11114753,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-01-19",
+      "value": 95.2444239,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-01-26",
+      "value": 95.37753473,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-02-02",
+      "value": 95.50500497,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-02-09",
+      "value": 95.61248995,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-02-16",
+      "value": 95.69105188,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-02-23",
+      "value": 95.77005069,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-03-02",
+      "value": 95.85128619,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-03-09",
+      "value": 95.9654876,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-03-16",
+      "value": 96.09073339,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-03-23",
+      "value": 96.23864511,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-03-30",
+      "value": 96.38402656,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-04-06",
+      "value": 96.53615912,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-04-13",
+      "value": 96.70474203,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-04-20",
+      "value": 96.91699163,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-04-27",
+      "value": 97.10756351,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-05-04",
+      "value": 97.33316246,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-05-11",
+      "value": 97.60085177,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-05-18",
+      "value": 97.88661222,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-05-25",
+      "value": 98.14434131,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 98.43158098,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-06-08",
+      "value": 98.74981921,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-06-15",
+      "value": 99.05051925,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-06-22",
+      "value": 99.39910375,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-06-29",
+      "value": 99.69578121,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-07-06",
+      "value": 100.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-07-13",
+      "value": 100.2840448,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-07-20",
+      "value": 100.5519728,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-07-27",
+      "value": 100.8047501,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-08-03",
+      "value": 101.0523451,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-08-10",
+      "value": 101.2498969,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-08-17",
+      "value": 101.4429568,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-08-24",
+      "value": 101.6670958,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-11 08:37:42"
+    },
+    {
+      "asOf": "2026-08-31",
+      "value": 101.8766666,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-17 08:00:08"
+    },
+    {
+      "asOf": "2026-09-07",
+      "value": 102.0736793,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
+      "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
+      "collectedAt": "2026-09-23 08:00:10"
+    }
+  ],
+  "jeonse_supply_demand_index": [
+    {
+      "asOf": "2025-08-01",
+      "value": 101.6415745,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2025-09-01",
+      "value": 103.0745511,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2025-10-01",
+      "value": 104.9700707,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2025-11-01",
+      "value": 104.8612371,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 105.5142391,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2026-01-01",
+      "value": 105.5414475,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2026-02-01",
+      "value": 104.4712498,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2026-03-01",
+      "value": 105.0970434,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2026-04-01",
+      "value": 109.5229458,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2026-05-01",
+      "value": 118.5470706,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 126.1654272,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-11 08:37:43"
+    },
+    {
+      "asOf": "2026-07-01",
+      "value": 127.5349175,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
+      "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
+      "collectedAt": "2026-09-23 08:00:11"
+    }
+  ],
+  "mortgage_delinquency": [
+    {
+      "asOf": "2024-09-01",
+      "value": 0.31,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2024-10-01",
+      "value": 0.31,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2024-11-01",
+      "value": 0.33,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2024-12-01",
+      "value": 0.31,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-01-01",
+      "value": 0.34,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-02-01",
+      "value": 0.35,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-03-01",
+      "value": 0.34,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-04-01",
+      "value": 0.35,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-05-01",
+      "value": 0.37,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-06-01",
+      "value": 0.35,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-07-01",
+      "value": 0.35,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-08-01",
+      "value": 0.35,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-09-01",
+      "value": 0.32,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-10-01",
+      "value": 0.35,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-11-01",
+      "value": 0.35,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 0.32,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2026-01-01",
+      "value": 0.35,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2026-02-01",
+      "value": 0.36,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2026-03-01",
+      "value": 0.32,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2026-04-01",
+      "value": 0.33,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2026-05-01",
+      "value": 0.35,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-13 21:50:43"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 0.31,
+      "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
+      "collectedAt": "2026-09-23 08:00:13"
+    }
+  ],
+  "mortgage_rate": [
+    {
+      "asOf": "2024-01-01",
+      "value": 3.99,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-01 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-02-01",
+      "value": 3.96,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-02 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-03-01",
+      "value": 3.94,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-03 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-04-01",
+      "value": 3.93,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-04 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-05-01",
+      "value": 3.91,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-05 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-06-01",
+      "value": 3.71,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-06 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-07-01",
+      "value": 3.5,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-07 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-08-01",
+      "value": 3.51,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-08 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-09-01",
+      "value": 3.74,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-09 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-10-01",
+      "value": 4.05,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-10 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-11-01",
+      "value": 4.3,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-11 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2024-12-01",
+      "value": 4.25,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2024-12 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-01-01",
+      "value": 4.27,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-01 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-02-01",
+      "value": 4.23,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-02 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-03-01",
+      "value": 4.17,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-03 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-04-01",
+      "value": 3.98,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-04 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-05-01",
+      "value": 3.87,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-05 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-06-01",
+      "value": 3.93,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-06 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-07-01",
+      "value": 3.96,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-07 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-08-01",
+      "value": 3.96,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-08 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-09-01",
+      "value": 3.96,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-09 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-10-01",
+      "value": 3.98,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-10 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-11-01",
+      "value": 4.17,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-11 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 4.23,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2025-12 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-01-01",
+      "value": 4.29,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-01 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-02-01",
+      "value": 4.32,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-02 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-03-01",
+      "value": 4.34,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-03 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-04-01",
+      "value": 4.31,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-04 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-05-01",
+      "value": 4.32,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-05 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 4.36,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-06 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-22 09:15:43"
+    },
+    {
+      "asOf": "2026-07-01",
+      "value": 4.48,
+      "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
+      "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
+      "note": "2026-07 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+      "collectedAt": "2026-09-23 08:00:15"
+    }
+  ],
+  "move_in_volume": [
+    {
+      "asOf": "2025-09-30",
+      "value": 3478.0,
+      "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
+      "sourceUrl": "https://r114.com/",
+      "note": "2025-09 서울 실제 입주가구수. 방배5구역 재건축(디에이치방배 3,064가구)이 대부분 차지. 2026-09-13 지표 재정의(연간 전망치→월간 실제 입주)로 백필.",
+      "collectedAt": "2026-09-23 08:00:16"
+    },
+    {
+      "asOf": "2025-12-31",
+      "value": 4229.0,
+      "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
+      "sourceUrl": "https://r114.com/",
+      "note": "2025-12 서울 실제 입주가구수(수도권 1만2,467가구 중 경기 6,448·서울 4,229·인천 1,790). 잠실래미안아이파크(2,678가구) 등. 웹 검색 백필.",
+      "collectedAt": "2026-09-23 08:00:16"
+    },
+    {
+      "asOf": "2026-06-30",
+      "value": 0.0,
+      "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
+      "sourceUrl": "https://r114.com/",
+      "note": "2026-06 서울 입주 예정 아파트 없음(0가구) — 헤럴드경제 보도. 웹 검색 백필.",
+      "collectedAt": "2026-09-23 08:00:16"
+    },
+    {
+      "asOf": "2026-07-31",
+      "value": 450.0,
+      "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
+      "sourceUrl": "https://r114.com/",
+      "note": "2026-07 서울 실제 입주가구수, 동월 기준 10년래 최저. 헤럴드경제 \"애걔, 다음달 서울 입주 450가구 뿐\" 보도. 웹 검색 백필.",
+      "collectedAt": "2026-09-23 08:00:16"
+    },
+    {
+      "asOf": "2026-08-31",
+      "value": 3540.0,
+      "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
+      "sourceUrl": "https://r114.com/",
+      "note": "2026-08 서울 실제 입주가구수, 반포래미안트리니원(2,091가구) 등 올해 최대. 웹 검색 백필.",
+      "collectedAt": "2026-09-23 08:00:16"
+    },
+    {
+      "asOf": "2026-09-30",
+      "value": 3438.0,
+      "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
+      "sourceUrl": "https://r114.com/",
+      "note": "2026-09 서울 입주 예정가구수(전국 1만4,174가구 중 서울 3,438가구). 6년5개월만 전국 최저치 국면. 웹 검색 백필. ⚠️ 2025-10·11, 2026-01~05는 '서울' 단독 월간 합계 수치를 못 찾아 공백(수도권/전국 수치는 정의가 달라 사용 안 함, 개별 단지 세대수만으로는 월간 총량 추정 불가).",
+      "collectedAt": "2026-09-23 08:00:16"
+    }
+  ],
+  "price_avg_per_sqm": [
+    {
+      "asOf": "2025-07-01",
+      "value": 1632.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2025-07 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2025-08-01",
+      "value": 1456.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2025-08 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2025-09-01",
+      "value": 1634.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2025-09 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2025-10-01",
+      "value": 1654.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2025-10 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2025-11-01",
+      "value": 1705.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2025-11 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 1506.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2025-12 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2026-01-01",
+      "value": 1549.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2026-01 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2026-02-01",
+      "value": 1486.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2026-02 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2026-03-01",
+      "value": 1456.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2026-03 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2026-04-01",
+      "value": 1655.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2026-04 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2026-05-01",
+      "value": 1726.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2026-05 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-14 08:17:58"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 1614.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
+      "note": "2026-06 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-23 08:00:09"
+    }
+  ],
+  "price_index_weekly": [
+    {
+      "asOf": "2025-09-01",
+      "value": 91.46612777,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-09-08",
+      "value": 91.55284162,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-09-15",
+      "value": 91.66366608,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-09-22",
+      "value": 91.83477952,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-09-29",
+      "value": 92.08433929,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-10-13",
+      "value": 92.5834742,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-10-20",
+      "value": 93.04645846,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-10-27",
+      "value": 93.26038564,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-11-03",
+      "value": 93.43752603,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-11-10",
+      "value": 93.60042016,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-11-17",
+      "value": 93.7888691,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-11-24",
+      "value": 93.95668901,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 94.1167681,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-12-08",
+      "value": 94.28754675,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-12-15",
+      "value": 94.45653878,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-12-22",
+      "value": 94.65905612,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2025-12-29",
+      "value": 94.85746585,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-01-05",
+      "value": 95.03163894,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-01-12",
+      "value": 95.23201667,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-01-19",
+      "value": 95.5064957,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-01-26",
+      "value": 95.79935474,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-02-02",
+      "value": 96.05395909,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-02-09",
+      "value": 96.26136987,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-02-16",
+      "value": 96.40634741,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-02-23",
+      "value": 96.51012103,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-03-02",
+      "value": 96.59521865,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-03-09",
+      "value": 96.67646488,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-03-16",
+      "value": 96.72824787,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-03-23",
+      "value": 96.78765222,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-03-30",
+      "value": 96.89906451,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-04-06",
+      "value": 96.99523881,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-04-13",
+      "value": 97.09482752,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-04-20",
+      "value": 97.23848279,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-04-27",
+      "value": 97.37355233,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-05-04",
+      "value": 97.52277413,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-05-11",
+      "value": 97.79637278,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-05-18",
+      "value": 98.10347864,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-05-25",
+      "value": 98.34564732,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 98.58998056,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-06-08",
+      "value": 98.85708291,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-06-15",
+      "value": 99.12862072,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-06-22",
+      "value": 99.43001802,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-06-29",
+      "value": 99.70051874,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-07-06",
+      "value": 100.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-07-13",
+      "value": 100.3012546,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-07-20",
+      "value": 100.5755271,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-07-27",
+      "value": 100.8232055,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-08-03",
+      "value": 101.0815231,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-08-10",
+      "value": 101.292831,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-08-17",
+      "value": 101.510657,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-08-24",
+      "value": 101.8095256,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-11 08:37:39"
+    },
+    {
+      "asOf": "2026-08-31",
+      "value": 102.0322668,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-17 08:00:07"
+    },
+    {
+      "asOf": "2026-09-07",
+      "value": 102.2313746,
+      "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
+      "note": "지수 (기준주 2026.7.6=100.0)",
+      "collectedAt": "2026-09-23 08:00:08"
+    }
+  ],
+  "trade_volume": [
+    {
+      "asOf": "2025-09-01",
+      "value": 9082.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202509 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2025-10-01",
+      "value": 8951.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202510 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2025-11-01",
+      "value": 3527.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202511 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 4936.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202512 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2026-01-01",
+      "value": 5548.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202601 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2026-02-01",
+      "value": 5981.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202602 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2026-03-01",
+      "value": 5715.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202603 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2026-04-01",
+      "value": 8914.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202604 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2026-05-01",
+      "value": 9218.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202605 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 5438.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202606 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2026-07-01",
+      "value": 5959.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202607 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-11 08:37:36"
+    },
+    {
+      "asOf": "2026-08-01",
+      "value": 3514.0,
+      "sourceName": "국토부 실거래가 Open API (data.go.kr)",
+      "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
+      "note": "서울 25개 구 합산, 신고 기준월 202608 (신고기한 30일 유의)",
+      "collectedAt": "2026-09-23 08:00:06"
+    }
+  ],
+  "unsold_housing": [
+    {
+      "asOf": "2025-08-01",
+      "value": 1106.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2025-09-01",
+      "value": 1088.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2025-10-01",
+      "value": 1056.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2025-11-01",
+      "value": 1037.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 939.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2026-01-01",
+      "value": 914.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2026-02-01",
+      "value": 1132.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2026-03-01",
+      "value": 1028.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2026-04-01",
+      "value": 995.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2026-05-01",
+      "value": 985.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 1013.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-11 08:37:37"
+    },
+    {
+      "asOf": "2026-07-01",
+      "value": 994.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
+      "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
+      "collectedAt": "2026-09-23 08:00:07"
+    }
+  ]
+}
