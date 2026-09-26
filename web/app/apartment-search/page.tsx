@@ -1,5 +1,4 @@
 import { ApartmentSearchForm } from "@/components/ApartmentSearchForm";
-import { isLocalExecAvailable } from "@/lib/deploy-env";
 
 export default function ApartmentSearchPage() {
   return (
@@ -13,23 +12,14 @@ export default function ApartmentSearchPage() {
         </p>
       </div>
 
-      {isLocalExecAvailable ? (
-        <>
-          <div className="rounded-lg border border-neutral-200 bg-white p-4 sm:p-6">
-            <ApartmentSearchForm />
-          </div>
-          <p className="text-xs text-neutral-400">
-            출처: 국토교통부 실거래가 공개시스템 Open API(getRTMSDataSvcAptTradeDev). 지역+월 단위로만
-            조회되는 API 특성상, 선택한 지역의 최근 36개월치 원자료를 조회한 뒤 아파트명이 일치하는
-            거래만 걸러 보여줍니다. 같은 지역은 결과를 캐싱해 재조회 시 더 빠릅니다.
-          </p>
-        </>
-      ) : (
-        <p className="rounded-lg border border-neutral-200 bg-neutral-50 p-4 text-sm text-neutral-500">
-          🔒 이 배포본에서는 검색할 수 없습니다 — 조회 시 로컬 Python 스크립트를 직접 실행하는
-          방식이라 로컬 환경에서만 동작합니다. 로컬에서 실행 중인 앱에서 이용해주세요.
-        </p>
-      )}
+      <div className="rounded-lg border border-neutral-200 bg-white p-4 sm:p-6">
+        <ApartmentSearchForm />
+      </div>
+      <p className="text-xs text-neutral-400">
+        출처: 국토교통부 실거래가 공개시스템 Open API(getRTMSDataSvcAptTradeDev). 지역+월 단위로만
+        조회되는 API 특성상, 선택한 지역의 최근 36개월치 원자료를 조회한 뒤 아파트명이 일치하는
+        거래만 걸러 보여줍니다.
+      </p>
     </div>
   );
 }

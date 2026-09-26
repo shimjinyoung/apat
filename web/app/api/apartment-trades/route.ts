@@ -1,13 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 import { searchApartmentTrades } from "@/lib/server/apartment-search";
-import { isLocalExecAvailable } from "@/lib/deploy-env";
 
+// force-dynamic 유지: 검색어별로 쿼리 파라미터가 매번 다르므로 정적 캐싱 대상이 아니다.
+// (각 월별 국토부 API 응답 자체는 fetch의 revalidate로 캐싱됨 — lib/server/apartment-search.ts 참고)
 export const dynamic = "force-dynamic";
 
 export async function GET(req: NextRequest) {
-  if (!isLocalExecAvailable) {
-    return NextResponse.json({ ok: false, message: "이 기능은 로컬 환경에서만 사용할 수 있습니다." }, { status: 501 });
-  }
   const region = req.nextUrl.searchParams.get("region") ?? "";
   const name = req.nextUrl.searchParams.get("name") ?? "";
 

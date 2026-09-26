@@ -25,7 +25,6 @@ venv/
 *.sqlite3
 data-pipeline/output/
 data-pipeline/logs/*.log
-data-pipeline/data/molit_cache/
 # web/data/*.generated.json 은 더 이상 무시하지 않는다 — Vercel 배포가 이 스냅샷을 그대로 서빙한다
 # (docs/decisions/0003-vercel-deployment.md 참고). 로컬 배치를 돌린 뒤 커밋해서 갱신한다.
 

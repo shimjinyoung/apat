@@ -12,7 +12,8 @@
 
 - `/api/run-pipeline` ("지금 수집 실행" 버튼)
 - `/api/manual-entry` (수동 입력 → `manual_readings.json` append → 파이프라인 재실행)
-- `/api/apartment-trades` (아파트 실거래가 검색 → `apartment_search.py` 실행)
+- `/api/apartment-trades` (아파트 실거래가 검색 → `apartment_search.py` 실행) — **2026-09-26 TypeScript로
+  이식해 해소됨, 아래 "후속(2026-09-26)" 참고**
 
 Vercel 같은 서버리스 환경은 Python venv가 없고 파일시스템이 읽기전용(배포 아티팩트 기준)이라
 이 셋은 그대로 배포하면 전부 깨진다.
@@ -53,10 +54,23 @@ git commit -m "chore: refresh data snapshot"
 git push
 ```
 
+## 후속(2026-09-26) — 아파트 실거래가 검색을 배포본에서도 쓸 수 있게 이식
+
+사용자가 배포본에서 이 화면이 막혀 있는 걸 보고 요청 → 위 "확인 필요" 항목대로
+`data_pipeline/apartment_search.py`(Python, execFile)를 걷어내고 `web/lib/server/apartment-search.ts`
+안에서 국토부 API를 순수 `fetch`로 직접 호출하도록 이식했다.
+
+- 로컬 디스크 캐시(지역+월 단위 JSON 파일) 대신 Next.js `fetch`의 `next: { revalidate: 3600 }`로
+  대체 — 서버리스에는 지속 디스크가 없으므로 Vercel Data Cache에 맡긴다.
+- 월별 36회 호출을 순차가 아니라 `Promise.all`로 병렬 처리(서버리스 함수 타임아웃 여유를 위해).
+- API 키(`MOLIT_SERVICE_KEY`)는 `data-pipeline/.env`와 별개로 **`web/` 자체의 환경변수**로
+  다시 설정해야 한다 — 로컬은 `web/.env.local`, 배포본은 Vercel 프로젝트의 Environment
+  Variables에 동일한 키 이름으로 등록(값은 data-pipeline/.env에 있는 것과 같은 값을 쓰면 됨,
+  Claude는 `.env` 파일을 직접 열 수 없으므로 사용자가 직접 복사해서 등록해야 함).
+- 이제 이 기능은 로컬/배포 구분 없이 항상 동작한다 — `isLocalExecAvailable` 가드를 제거했다.
+  `run-pipeline`·`manual-entry`는 여전히 로컬 파일 시스템 쓰기가 필요해 가드 유지.
+
 ## 확인 필요 (다음에 결정할 것)
 
 - 스냅샷이 오래되면(며칠~몇 주) 배포본이 stale해진다는 걸 어떻게 눈에 띄게 알릴지
   (현재는 대시보드 최신성 신호등이 "원본 소스 날짜" 기준이라 스냅샷 자체의 나이는 안 보여줌)
-- 아파트 실거래가 검색을 배포본에서도 쓰고 싶다면, `data_pipeline/apartment_search.py`의
-  로직(국토부 API 호출 + 아파트명 필터링)을 TypeScript API route로 이식하는 게 유일한 길
-  (Python 의존 없이 순수 `fetch`로 가능 — 별도 작업으로 분리)

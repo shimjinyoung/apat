@@ -188,6 +188,21 @@ CA로 서명되어 있는 것**이 원인이었다. `truststore` 패키지로 OS
   오늘(2026-09-13)부터 매일 수집해 누적.
 - 이제 낙찰률/낙찰가율/입주물량 **3개만** 수동 입력 대상.
 
+## 아파트 실거래가 검색 화면 — web용 API 키 별도 설정 필요 (2026-09-26)
+`/apartment-search` 화면은 Next.js 서버(`web/lib/server/apartment-search.ts`)가 국토부
+실거래가 API를 직접 `fetch`로 호출한다(2026-09-26부터 — 이전엔 로컬 Python 스크립트를
+실행하는 방식이라 로컬 전용이었음, docs/decisions/0003-vercel-deployment.md 후속 참고).
+
+`data-pipeline/.env`의 `MOLIT_SERVICE_KEY`와는 **완전히 별개의 프로세스**라 `web/`에도
+같은 키를 별도로 설정해야 동작한다.
+
+- **로컬 개발**: `web/.env.local` 파일을 만들고 `MOLIT_SERVICE_KEY=<발급받은 키>`를 넣는다
+  (Claude는 이 파일을 직접 열람/수정하지 않음 — 본인이 직접 `data-pipeline/.env`에서 같은 값을
+  복사해 넣을 것). `.gitignore`의 `.env.*` 규칙에 걸려 커밋되지 않는다.
+- **Vercel 배포본**: Vercel 프로젝트 → Settings → Environment Variables에 같은 이름
+  (`MOLIT_SERVICE_KEY`)으로 등록 후 재배포해야 검색이 동작한다. 등록 전에는 API가
+  "서버에 MOLIT_SERVICE_KEY가 설정되어 있지 않습니다" 메시지를 반환한다.
+
 ## 남은 TODO
 - [ ] 하락 구간이 포함된 데이터가 쌓이면 가격지수류·전세수급지수의 "-1(비우호)" 분기 재검증
 - [ ] 거래량 신고기한(30일) 지연 보정 — 비교 기준 시점을 한 달 늦추는 방안 검토
