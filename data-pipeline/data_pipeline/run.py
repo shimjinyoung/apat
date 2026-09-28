@@ -13,6 +13,7 @@ from . import db
 from .models import Reading
 from .sources import (
     courtauction_stats,
+    ecos_csi,
     ecos_delinquency,
     ecos_rates,
     kosis_avg_price,
@@ -39,6 +40,7 @@ def run() -> None:
         ("태인경매 아파트 경매건수", taein_auction.fetch),
         ("ECOS 서울 주택담보대출 연체율", ecos_delinquency.fetch),
         ("ECOS 주담대 금리·기준금리", ecos_rates.fetch),
+        ("ECOS 주택가격전망CSI(서울·경기·인천)", ecos_csi.fetch),
         ("법원경매정보 낙찰률·낙찰가율", courtauction_stats.fetch),
         ("수동 입력(입주물량)", manual.fetch),
     ]

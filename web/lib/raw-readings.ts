@@ -6,7 +6,12 @@ import path from "node:path";
 import type { IndicatorId } from "./indicators";
 
 /** 스코어링에 참여하지 않는 참고용 표시 시리즈 — INDICATORS 배열에는 없지만 DB/히스토리에는 있다. */
-export type AuxSeriesId = "price_avg_per_sqm" | "base_rate";
+export type AuxSeriesId =
+  | "price_avg_per_sqm"
+  | "base_rate"
+  | "csi_housing_seoul"
+  | "csi_housing_gyeonggi"
+  | "csi_housing_incheon";
 
 export type SeriesId = IndicatorId | AuxSeriesId;
 
