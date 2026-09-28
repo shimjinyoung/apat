@@ -103,12 +103,12 @@ export function NationalPriceChart() {
           <LineChart data={DATA} margin={{ top: 24, right: 12, left: 4, bottom: 4 }}>
             <CartesianGrid stroke="#e5e5e5" vertical={false} />
             <XAxis dataKey="prd" ticks={YEAR_TICKS} tickFormatter={(v: string) => v.slice(0, 4)} tick={{ fontSize: 11 }} />
-            <YAxis domain={[50, 155]} tick={{ fontSize: 11 }} width={36} />
+            <YAxis domain={[35, 120]} tick={{ fontSize: 11 }} width={36} />
             <ReferenceLine
               y={100}
               stroke="#a3a3a3"
               strokeDasharray="3 4"
-              label={{ value: "기준 100 (2017.11)", position: "insideTopRight", fontSize: 10, fill: "#a3a3a3" }}
+              label={{ value: "기준 100 (2026.06)", position: "insideTopRight", fontSize: 10, fill: "#a3a3a3" }}
             />
             <Tooltip content={<CustomTooltip />} />
             <Line type="monotone" dataKey="value" stroke="#2563eb" strokeWidth={2} dot={false} activeDot={{ r: 5 }} />
