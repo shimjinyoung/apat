@@ -61,6 +61,48 @@ export default function CsiTrendPage() {
           </p>
         </div>
 
+        <div className="rounded-lg border border-neutral-200 bg-neutral-50 p-4 text-sm text-neutral-700">
+          <p>
+            주택 매매·전세시장에 대한 <strong>소비자·중개업소의 체감 심리</strong>를 수치화한 지표로,
+            한국은행 주택가격전망CSI와는 다른 지표입니다. 100을 기준으로 높을수록 심리가 강하고
+            낮을수록 약하며, 국토연구원은 아래 3구간으로 나눠 해석합니다.
+          </p>
+          <div className="mt-3 overflow-x-auto rounded-lg border border-neutral-200 bg-white">
+            <table className="w-full text-sm">
+              <thead className="bg-neutral-50 text-left">
+                <tr>
+                  <th className="px-3 py-1.5">지수</th>
+                  <th className="px-3 py-1.5">의미</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr className="border-t border-neutral-100">
+                  <td className="px-3 py-1.5">115 이상</td>
+                  <td className="px-3 py-1.5">상승 국면</td>
+                </tr>
+                <tr className="border-t border-neutral-100">
+                  <td className="px-3 py-1.5">95 ~ 115 미만</td>
+                  <td className="px-3 py-1.5">보합 국면</td>
+                </tr>
+                <tr className="border-t border-neutral-100">
+                  <td className="px-3 py-1.5">95 미만</td>
+                  <td className="px-3 py-1.5">하강 국면</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p className="mt-3">
+            예를 들어 지수 125는 가격이 25% 오른다는 뜻이 아니라, 매수·거래·가격에 대한 시장
+            참여자들의 체감이 강한 &quot;상승 국면&quot;이라는 의미입니다.
+          </p>
+          <p className="mt-3">
+            <strong>CSI와의 차이</strong> — 한국은행 주택가격전망CSI는 일반 소비자에게 &quot;1년 후
+            집값이 어떻게 될 것인가&quot;를 묻는 <strong>미래 전망</strong> 성격이 강한 반면, 이
+            지수는 일반가구뿐 아니라 중개업소의 현장 체감까지 반영해 <strong>현재</strong> 주택시장
+            심리를 파악하는 성격이 강합니다.
+          </p>
+        </div>
+
         {hasSentimentData ? (
           <div className="rounded-lg border border-neutral-200 bg-white p-4 sm:p-6">
             <HousingSentimentChart national={sentimentNational} capital={sentimentCapital} />
