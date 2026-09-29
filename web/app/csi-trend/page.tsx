@@ -33,6 +33,33 @@ export default function CsiTrendPage() {
           </p>
         </div>
 
+        <div className="rounded-lg border border-neutral-200 bg-neutral-50 p-4 text-sm text-neutral-700">
+          <p>
+            한국은행이 소비자에게 <strong>&quot;앞으로 1년 뒤 주택가격이 지금보다 오를 것 같은가?&quot;</strong>를
+            조사해 지수화한 것입니다. 기준은 100입니다.
+          </p>
+          <ul className="mt-3 list-disc space-y-1 pl-5">
+            <li>
+              <strong>100 초과</strong>: 1년 뒤 주택가격이 상승할 것이라는 응답이 우세
+            </li>
+            <li>
+              <strong>100</strong>: 상승·하락 전망이 대체로 균형
+            </li>
+            <li>
+              <strong>100 미만</strong>: 하락할 것이라는 응답이 우세
+            </li>
+          </ul>
+          <p className="mt-3">
+            예를 들어 CSI가 120이라면 주택가격이 20% 오른다는 뜻이 아니라, 상승을 예상하는
+            소비자가 하락을 예상하는 소비자보다 상당히 많다는 의미입니다.
+          </p>
+          <p className="mt-3">
+            또한 실제 집값을 예측하는 지표라기보다는 <strong>시장 참여자의 심리를 보여주는 선행성
+            지표</strong>로 보는 것이 적절합니다. 금리, 대출규제, 정부 부동산 정책, 최근 아파트
+            가격 상승·하락 등의 영향을 많이 받습니다.
+          </p>
+        </div>
+
         {hasCsiData ? (
           <div className="rounded-lg border border-neutral-200 bg-white p-4 sm:p-6">
             <CsiTrendChart seoul={seoul} gyeonggi={gyeonggi} incheon={incheon} />
