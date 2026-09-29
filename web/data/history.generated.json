@@ -70,7 +70,7 @@
       "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
       "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
       "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
-      "collectedAt": "2026-09-29 08:27:24"
+      "collectedAt": "2026-09-29 08:59:19"
     }
   ],
   "auction_win_price_ratio": [
@@ -168,7 +168,7 @@
       "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
       "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
       "note": "2026-08 서울 아파트 경매 215건 중 72건 매각(법원 공식 집계)",
-      "collectedAt": "2026-09-29 08:27:29"
+      "collectedAt": "2026-09-29 08:59:25"
     }
   ],
   "auction_win_rate": [
@@ -266,7 +266,7 @@
       "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
       "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
       "note": "2026-08 서울 아파트 경매 215건 중 72건 매각(법원 공식 집계)",
-      "collectedAt": "2026-09-29 08:27:29"
+      "collectedAt": "2026-09-29 08:59:25"
     }
   ],
   "base_rate": [
@@ -524,7 +524,7 @@
       "sourceName": "한국은행 ECOS 한국은행 기준금리",
       "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
       "note": "2026-08 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
-      "collectedAt": "2026-09-29 08:27:26"
+      "collectedAt": "2026-09-29 08:59:21"
     }
   ],
   "csi_housing_gyeonggi": [
@@ -1846,7 +1846,7 @@
       "sourceName": "한국은행 ECOS 소비자동향조사(지역별, 경기)",
       "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
       "note": "2026-09 주택가격전망CSI(경기) — 참고용, 채점 미반영",
-      "collectedAt": "2026-09-29 08:27:28"
+      "collectedAt": "2026-09-29 08:59:24"
     }
   ],
   "csi_housing_incheon": [
@@ -3168,7 +3168,7 @@
       "sourceName": "한국은행 ECOS 소비자동향조사(지역별, 인천)",
       "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
       "note": "2026-09 주택가격전망CSI(인천) — 참고용, 채점 미반영",
-      "collectedAt": "2026-09-29 08:27:28"
+      "collectedAt": "2026-09-29 08:59:24"
     }
   ],
   "csi_housing_seoul": [
@@ -4490,7 +4490,2907 @@
       "sourceName": "한국은행 ECOS 소비자동향조사(전국 기준, 서울)",
       "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
       "note": "2026-09 주택가격전망CSI(서울) — 참고용, 채점 미반영",
-      "collectedAt": "2026-09-29 08:27:28"
+      "collectedAt": "2026-09-29 08:59:24"
+    }
+  ],
+  "housing_sentiment_capital": [
+    {
+      "asOf": "2011-07-01",
+      "value": 122.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-08-01",
+      "value": 128.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-09-01",
+      "value": 124.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-10-01",
+      "value": 111.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-11-01",
+      "value": 101.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-12-01",
+      "value": 99.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-01-01",
+      "value": 106.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-02-01",
+      "value": 111.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-03-01",
+      "value": 107.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-04-01",
+      "value": 106.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-05-01",
+      "value": 106.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-06-01",
+      "value": 94.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-07-01",
+      "value": 97.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-08-01",
+      "value": 103.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-09-01",
+      "value": 108.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-10-01",
+      "value": 110.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-11-01",
+      "value": 104.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-12-01",
+      "value": 101.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-01-01",
+      "value": 109.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-02-01",
+      "value": 118.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-03-01",
+      "value": 114.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-04-01",
+      "value": 116.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-05-01",
+      "value": 115.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-06-01",
+      "value": 109.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-07-01",
+      "value": 113.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-08-01",
+      "value": 123.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-09-01",
+      "value": 130.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-10-01",
+      "value": 130.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-11-01",
+      "value": 121.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-12-01",
+      "value": 113.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-01-01",
+      "value": 129.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-02-01",
+      "value": 134.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-03-01",
+      "value": 120.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-04-01",
+      "value": 118.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-05-01",
+      "value": 116.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-06-01",
+      "value": 110.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-07-01",
+      "value": 118.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-08-01",
+      "value": 128.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-09-01",
+      "value": 131.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-10-01",
+      "value": 132.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-11-01",
+      "value": 125.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-12-01",
+      "value": 115.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-01-01",
+      "value": 134.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-02-01",
+      "value": 136.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-03-01",
+      "value": 138.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-04-01",
+      "value": 141.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-05-01",
+      "value": 137.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-06-01",
+      "value": 128.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-07-01",
+      "value": 136.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-08-01",
+      "value": 135.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-09-01",
+      "value": 133.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-10-01",
+      "value": 137.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-11-01",
+      "value": 128.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-12-01",
+      "value": 111.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-01-01",
+      "value": 117.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-02-01",
+      "value": 120.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-03-01",
+      "value": 120.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-04-01",
+      "value": 124.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-05-01",
+      "value": 125.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-06-01",
+      "value": 124.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-07-01",
+      "value": 128.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-08-01",
+      "value": 131.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-09-01",
+      "value": 128.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-10-01",
+      "value": 129.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-11-01",
+      "value": 116.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-12-01",
+      "value": 104.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-01-01",
+      "value": 109.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-02-01",
+      "value": 114.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-03-01",
+      "value": 115.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-04-01",
+      "value": 117.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-05-01",
+      "value": 122.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-06-01",
+      "value": 121.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-07-01",
+      "value": 127.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-08-01",
+      "value": 117.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-09-01",
+      "value": 115.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-10-01",
+      "value": 113.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-11-01",
+      "value": 110.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-12-01",
+      "value": 106.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-01-01",
+      "value": 116.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-02-01",
+      "value": 116.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-03-01",
+      "value": 110.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-04-01",
+      "value": 103.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-05-01",
+      "value": 102.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-06-01",
+      "value": 99.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-07-01",
+      "value": 102.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-08-01",
+      "value": 115.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-09-01",
+      "value": 119.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-10-01",
+      "value": 110.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-11-01",
+      "value": 100.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-12-01",
+      "value": 91.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-01-01",
+      "value": 90.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-02-01",
+      "value": 94.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-03-01",
+      "value": 91.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-04-01",
+      "value": 89.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-05-01",
+      "value": 94.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-06-01",
+      "value": 103.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-07-01",
+      "value": 109.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-08-01",
+      "value": 110.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-09-01",
+      "value": 115.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-10-01",
+      "value": 122.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-11-01",
+      "value": 122.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-12-01",
+      "value": 120.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-01-01",
+      "value": 119.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-02-01",
+      "value": 123.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-03-01",
+      "value": 112.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-04-01",
+      "value": 106.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-05-01",
+      "value": 113.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-06-01",
+      "value": 128.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-07-01",
+      "value": 130.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-08-01",
+      "value": 127.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-09-01",
+      "value": 126.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-10-01",
+      "value": 132.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-11-01",
+      "value": 134.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-12-01",
+      "value": 133.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-01-01",
+      "value": 131.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-02-01",
+      "value": 129.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-03-01",
+      "value": 123.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-04-01",
+      "value": 121.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-05-01",
+      "value": 127.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-06-01",
+      "value": 131.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-07-01",
+      "value": 133.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-08-01",
+      "value": 135.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-09-01",
+      "value": 131.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-10-01",
+      "value": 120.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-11-01",
+      "value": 111.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-12-01",
+      "value": 103.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-01-01",
+      "value": 101.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-02-01",
+      "value": 103.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-03-01",
+      "value": 107.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-04-01",
+      "value": 110.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-05-01",
+      "value": 105.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-06-01",
+      "value": 99.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-07-01",
+      "value": 92.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-08-01",
+      "value": 87.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-09-01",
+      "value": 85.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-10-01",
+      "value": 78.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-11-01",
+      "value": 75.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-12-01",
+      "value": 75.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-01-01",
+      "value": 83.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-02-01",
+      "value": 94.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-03-01",
+      "value": 97.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-04-01",
+      "value": 99.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-05-01",
+      "value": 103.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-06-01",
+      "value": 104.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-07-01",
+      "value": 108.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-08-01",
+      "value": 111.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-09-01",
+      "value": 113.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-10-01",
+      "value": 106.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-11-01",
+      "value": 99.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-12-01",
+      "value": 96.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-01-01",
+      "value": 100.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-02-01",
+      "value": 106.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-03-01",
+      "value": 105.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-04-01",
+      "value": 106.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-05-01",
+      "value": 109.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-06-01",
+      "value": 114.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-07-01",
+      "value": 119.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-08-01",
+      "value": 120.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-09-01",
+      "value": 113.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-10-01",
+      "value": 107.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-11-01",
+      "value": 101.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-12-01",
+      "value": 98.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-01-01",
+      "value": 102.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-02-01",
+      "value": 108.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-03-01",
+      "value": 114.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-04-01",
+      "value": 107.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-05-01",
+      "value": 110.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-06-01",
+      "value": 122.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-07-01",
+      "value": 106.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-08-01",
+      "value": 109.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-09-01",
+      "value": 114.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-09 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-10-01",
+      "value": 119.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-10 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-11-01",
+      "value": 115.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-11 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 115.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-12 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-01-01",
+      "value": 120.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-01 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-02-01",
+      "value": 113.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-02 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-03-01",
+      "value": 114.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-03 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-04-01",
+      "value": 117.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-04 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-05-01",
+      "value": 122.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-05 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 123.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-06 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-07-01",
+      "value": 123.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:59:25"
+    }
+  ],
+  "housing_sentiment_national": [
+    {
+      "asOf": "2011-07-01",
+      "value": 128.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-08-01",
+      "value": 133.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-09-01",
+      "value": 129.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-10-01",
+      "value": 119.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-11-01",
+      "value": 110.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2011-12-01",
+      "value": 106.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2011-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-01-01",
+      "value": 111.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-02-01",
+      "value": 117.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-03-01",
+      "value": 113.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-04-01",
+      "value": 112.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-05-01",
+      "value": 111.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-06-01",
+      "value": 100.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-07-01",
+      "value": 102.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-08-01",
+      "value": 107.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-09-01",
+      "value": 111.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-10-01",
+      "value": 113.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-11-01",
+      "value": 108.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2012-12-01",
+      "value": 105.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2012-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-01-01",
+      "value": 112.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-02-01",
+      "value": 119.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-03-01",
+      "value": 116.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-04-01",
+      "value": 118.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-05-01",
+      "value": 117.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-06-01",
+      "value": 111.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-07-01",
+      "value": 113.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-08-01",
+      "value": 121.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-09-01",
+      "value": 127.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-10-01",
+      "value": 129.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-11-01",
+      "value": 122.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2013-12-01",
+      "value": 115.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2013-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-01-01",
+      "value": 128.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-02-01",
+      "value": 133.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-03-01",
+      "value": 121.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-04-01",
+      "value": 120.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-05-01",
+      "value": 117.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-06-01",
+      "value": 111.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-07-01",
+      "value": 117.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-08-01",
+      "value": 126.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-09-01",
+      "value": 129.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-10-01",
+      "value": 130.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-11-01",
+      "value": 124.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2014-12-01",
+      "value": 114.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2014-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-01-01",
+      "value": 129.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-02-01",
+      "value": 132.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-03-01",
+      "value": 134.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-04-01",
+      "value": 136.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-05-01",
+      "value": 132.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-06-01",
+      "value": 126.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-07-01",
+      "value": 132.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-08-01",
+      "value": 131.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-09-01",
+      "value": 129.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-10-01",
+      "value": 132.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-11-01",
+      "value": 124.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2015-12-01",
+      "value": 109.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2015-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-01-01",
+      "value": 113.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-02-01",
+      "value": 116.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-03-01",
+      "value": 116.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-04-01",
+      "value": 118.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-05-01",
+      "value": 118.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-06-01",
+      "value": 117.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-07-01",
+      "value": 121.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-08-01",
+      "value": 124.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-09-01",
+      "value": 124.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-10-01",
+      "value": 125.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-11-01",
+      "value": 114.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2016-12-01",
+      "value": 105.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2016-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-01-01",
+      "value": 108.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-02-01",
+      "value": 112.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-03-01",
+      "value": 112.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-04-01",
+      "value": 113.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-05-01",
+      "value": 116.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-06-01",
+      "value": 115.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-07-01",
+      "value": 119.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-08-01",
+      "value": 113.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-09-01",
+      "value": 111.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-10-01",
+      "value": 110.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-11-01",
+      "value": 107.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2017-12-01",
+      "value": 102.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2017-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-01-01",
+      "value": 109.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-02-01",
+      "value": 111.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-03-01",
+      "value": 106.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-04-01",
+      "value": 100.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-05-01",
+      "value": 99.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-06-01",
+      "value": 96.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-07-01",
+      "value": 98.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-08-01",
+      "value": 107.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-09-01",
+      "value": 111.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-10-01",
+      "value": 103.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-11-01",
+      "value": 96.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2018-12-01",
+      "value": 90.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2018-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-01-01",
+      "value": 89.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-02-01",
+      "value": 92.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-03-01",
+      "value": 90.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-04-01",
+      "value": 86.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-05-01",
+      "value": 91.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-06-01",
+      "value": 98.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-07-01",
+      "value": 102.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-08-01",
+      "value": 104.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-09-01",
+      "value": 109.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-10-01",
+      "value": 114.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-11-01",
+      "value": 116.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2019-12-01",
+      "value": 116.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2019-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-01-01",
+      "value": 115.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-02-01",
+      "value": 118.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-03-01",
+      "value": 108.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-04-01",
+      "value": 104.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-05-01",
+      "value": 111.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-06-01",
+      "value": 122.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-07-01",
+      "value": 123.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-08-01",
+      "value": 122.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-09-01",
+      "value": 123.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-10-01",
+      "value": 131.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-11-01",
+      "value": 134.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2020-12-01",
+      "value": 130.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2020-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-01-01",
+      "value": 127.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-02-01",
+      "value": 125.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-03-01",
+      "value": 121.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-04-01",
+      "value": 119.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-05-01",
+      "value": 123.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-06-01",
+      "value": 127.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-07-01",
+      "value": 128.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-08-01",
+      "value": 130.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-09-01",
+      "value": 129.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-10-01",
+      "value": 120.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-11-01",
+      "value": 112.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2021-12-01",
+      "value": 104.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2021-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-01-01",
+      "value": 102.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-02-01",
+      "value": 104.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-03-01",
+      "value": 107.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-04-01",
+      "value": 109.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-05-01",
+      "value": 105.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-06-01",
+      "value": 100.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-07-01",
+      "value": 93.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-08-01",
+      "value": 89.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-09-01",
+      "value": 87.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-10-01",
+      "value": 80.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-11-01",
+      "value": 78.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2022-12-01",
+      "value": 77.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2022-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-01-01",
+      "value": 83.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-02-01",
+      "value": 93.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-03-01",
+      "value": 95.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-04-01",
+      "value": 98.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-05-01",
+      "value": 101.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-06-01",
+      "value": 103.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-07-01",
+      "value": 106.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-08-01",
+      "value": 109.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-09-01",
+      "value": 110.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-10-01",
+      "value": 104.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-11-01",
+      "value": 98.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2023-12-01",
+      "value": 96.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2023-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-01-01",
+      "value": 99.5,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-02-01",
+      "value": 103.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-03-01",
+      "value": 101.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-04-01",
+      "value": 102.3,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-05-01",
+      "value": 104.6,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-06-01",
+      "value": 107.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-07-01",
+      "value": 112.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-08-01",
+      "value": 113.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-09-01",
+      "value": 109.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-10-01",
+      "value": 105.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-11-01",
+      "value": 100.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2024-12-01",
+      "value": 98.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2024-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-01-01",
+      "value": 100.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-02-01",
+      "value": 105.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-03-01",
+      "value": 108.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-04-01",
+      "value": 104.7,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-05-01",
+      "value": 107.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-06-01",
+      "value": 115.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-07-01",
+      "value": 106.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-08-01",
+      "value": 107.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-09-01",
+      "value": 111.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-09 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-10-01",
+      "value": 114.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-10 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-11-01",
+      "value": 112.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-11 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2025-12-01",
+      "value": 112.2,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2025-12 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-01-01",
+      "value": 116.4,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-01 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-02-01",
+      "value": 111.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-02 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-03-01",
+      "value": 110.0,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-03 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-04-01",
+      "value": 111.8,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-04 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-05-01",
+      "value": 114.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-05 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-06-01",
+      "value": 115.9,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-06 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:58:54"
+    },
+    {
+      "asOf": "2026-07-01",
+      "value": 116.1,
+      "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
+      "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
+      "note": "2026-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+      "collectedAt": "2026-09-29 08:59:25"
     }
   ],
   "jeonse_ratio": [
@@ -4924,7 +7824,7 @@
       "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
       "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
       "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
-      "collectedAt": "2026-09-29 08:27:23"
+      "collectedAt": "2026-09-29 08:59:16"
     }
   ],
   "jeonse_supply_demand_index": [
@@ -5030,7 +7930,7 @@
       "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
       "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
       "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
-      "collectedAt": "2026-09-29 08:27:24"
+      "collectedAt": "2026-09-29 08:59:18"
     }
   ],
   "mortgage_delinquency": [
@@ -5216,7 +8116,7 @@
       "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
       "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
       "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
-      "collectedAt": "2026-09-29 08:27:25"
+      "collectedAt": "2026-09-29 08:59:20"
     }
   ],
   "mortgage_rate": [
@@ -5466,7 +8366,7 @@
       "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
       "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
       "note": "2026-07 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
-      "collectedAt": "2026-09-29 08:27:26"
+      "collectedAt": "2026-09-29 08:59:21"
     }
   ],
   "move_in_volume": [
@@ -5476,7 +8376,7 @@
       "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
       "sourceUrl": "https://r114.com/",
       "note": "2025-09 서울 실제 입주가구수. 방배5구역 재건축(디에이치방배 3,064가구)이 대부분 차지. 2026-09-13 지표 재정의(연간 전망치→월간 실제 입주)로 백필.",
-      "collectedAt": "2026-09-29 08:27:29"
+      "collectedAt": "2026-09-29 08:59:25"
     },
     {
       "asOf": "2025-12-31",
@@ -5484,7 +8384,7 @@
       "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
       "sourceUrl": "https://r114.com/",
       "note": "2025-12 서울 실제 입주가구수(수도권 1만2,467가구 중 경기 6,448·서울 4,229·인천 1,790). 잠실래미안아이파크(2,678가구) 등. 웹 검색 백필.",
-      "collectedAt": "2026-09-29 08:27:29"
+      "collectedAt": "2026-09-29 08:59:25"
     },
     {
       "asOf": "2026-06-30",
@@ -5492,7 +8392,7 @@
       "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
       "sourceUrl": "https://r114.com/",
       "note": "2026-06 서울 입주 예정 아파트 없음(0가구) — 헤럴드경제 보도. 웹 검색 백필.",
-      "collectedAt": "2026-09-29 08:27:29"
+      "collectedAt": "2026-09-29 08:59:25"
     },
     {
       "asOf": "2026-07-31",
@@ -5500,7 +8400,7 @@
       "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
       "sourceUrl": "https://r114.com/",
       "note": "2026-07 서울 실제 입주가구수, 동월 기준 10년래 최저. 헤럴드경제 \"애걔, 다음달 서울 입주 450가구 뿐\" 보도. 웹 검색 백필.",
-      "collectedAt": "2026-09-29 08:27:29"
+      "collectedAt": "2026-09-29 08:59:25"
     },
     {
       "asOf": "2026-08-31",
@@ -5508,7 +8408,7 @@
       "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
       "sourceUrl": "https://r114.com/",
       "note": "2026-08 서울 실제 입주가구수, 반포래미안트리니원(2,091가구) 등 올해 최대. 웹 검색 백필.",
-      "collectedAt": "2026-09-29 08:27:29"
+      "collectedAt": "2026-09-29 08:59:25"
     },
     {
       "asOf": "2026-09-30",
@@ -5516,7 +8416,7 @@
       "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
       "sourceUrl": "https://r114.com/",
       "note": "2026-09 서울 입주 예정가구수(전국 1만4,174가구 중 서울 3,438가구). 6년5개월만 전국 최저치 국면. 웹 검색 백필. ⚠️ 2025-10·11, 2026-01~05는 '서울' 단독 월간 합계 수치를 못 찾아 공백(수도권/전국 수치는 정의가 달라 사용 안 함, 개별 단지 세대수만으로는 월간 총량 추정 불가).",
-      "collectedAt": "2026-09-29 08:27:29"
+      "collectedAt": "2026-09-29 08:59:25"
     }
   ],
   "price_avg_per_sqm": [
@@ -5622,7 +8522,7 @@
       "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
       "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
       "note": "2026-07 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
-      "collectedAt": "2026-09-29 08:27:22"
+      "collectedAt": "2026-09-29 08:59:14"
     }
   ],
   "price_index_weekly": [
@@ -6056,7 +8956,7 @@
       "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
       "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
       "note": "지수 (기준주 2026.7.6=100.0)",
-      "collectedAt": "2026-09-29 08:27:22"
+      "collectedAt": "2026-09-29 08:59:13"
     }
   ],
   "trade_volume": [
@@ -6154,7 +9054,7 @@
       "sourceName": "국토부 실거래가 Open API (data.go.kr)",
       "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
       "note": "서울 25개 구 합산, 신고 기준월 202608 (신고기한 30일 유의)",
-      "collectedAt": "2026-09-29 08:27:19"
+      "collectedAt": "2026-09-29 08:59:12"
     }
   ],
   "unsold_housing": [
@@ -6252,7 +9152,7 @@
       "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
       "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
       "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
-      "collectedAt": "2026-09-29 08:27:20"
+      "collectedAt": "2026-09-29 08:59:13"
     }
   ]
 }

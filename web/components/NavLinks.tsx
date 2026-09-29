@@ -10,7 +10,7 @@ const LINKS = [
   { href: "/manual-entry", label: "수동 입력 관리" },
   { href: "/national-price", label: "전국 실거래가 추이" },
   { href: "/apartment-search", label: "아파트 실거래가 검색" },
-  { href: "/csi-trend", label: "수도권 주택가격전망 CSI" },
+  { href: "/csi-trend", label: "주택구입 심리 분석" },
 ];
 
 function isLinkActive(pathname: string, href: string) {

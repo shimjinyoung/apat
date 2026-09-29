@@ -20,6 +20,7 @@ from .sources import (
     kosis_jeonse,
     kosis_price_index,
     kosis_unsold,
+    krihs_sentiment,
     manual,
     molit_trade_volume,
     taein_auction,
@@ -41,6 +42,7 @@ def run() -> None:
         ("ECOS 서울 주택담보대출 연체율", ecos_delinquency.fetch),
         ("ECOS 주담대 금리·기준금리", ecos_rates.fetch),
         ("ECOS 주택가격전망CSI(서울·경기·인천)", ecos_csi.fetch),
+        ("국토연구원 주택시장 소비심리지수(전국·수도권)", krihs_sentiment.fetch),
         ("법원경매정보 낙찰률·낙찰가율", courtauction_stats.fetch),
         ("수동 입력(입주물량)", manual.fetch),
     ]

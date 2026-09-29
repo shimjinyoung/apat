@@ -42,9 +42,9 @@ export function CsiTrendChart({
           <Tooltip labelFormatter={(l) => `기준월 ${l}`} />
           <Legend wrapperStyle={{ fontSize: 12 }} formatter={(v) => ({ seoul: "서울", gyeonggi: "경기", incheon: "인천" })[v as string] ?? v} />
           <ReferenceLine y={100} stroke="#c3c2b7" strokeDasharray="4 4" />
-          <Line type="monotone" dataKey="seoul" stroke="#2a78d6" strokeWidth={2} dot={false} connectNulls />
-          <Line type="monotone" dataKey="gyeonggi" stroke="#eb6834" strokeWidth={2} dot={false} connectNulls />
-          <Line type="monotone" dataKey="incheon" stroke="#1baf7a" strokeWidth={2} dot={false} connectNulls />
+          <Line type="monotone" dataKey="seoul" stroke="#2a78d6" strokeWidth={2} dot={false} connectNulls isAnimationActive={false} />
+          <Line type="monotone" dataKey="gyeonggi" stroke="#eb6834" strokeWidth={2} dot={false} connectNulls isAnimationActive={false} />
+          <Line type="monotone" dataKey="incheon" stroke="#1baf7a" strokeWidth={2} dot={false} connectNulls isAnimationActive={false} />
         </LineChart>
       </ResponsiveContainer>
       <p className="mt-1 text-[11px] text-neutral-400">

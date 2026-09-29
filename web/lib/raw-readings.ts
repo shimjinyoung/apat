@@ -11,7 +11,9 @@ export type AuxSeriesId =
   | "base_rate"
   | "csi_housing_seoul"
   | "csi_housing_gyeonggi"
-  | "csi_housing_incheon";
+  | "csi_housing_incheon"
+  | "housing_sentiment_national"
+  | "housing_sentiment_capital";
 
 export type SeriesId = IndicatorId | AuxSeriesId;
 
