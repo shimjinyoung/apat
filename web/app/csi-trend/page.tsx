@@ -23,6 +23,28 @@ export default function CsiTrendPage() {
         </p>
       </div>
 
+      <div className="rounded-lg border border-neutral-200 bg-neutral-50 p-4 text-sm text-neutral-700">
+        <ul className="list-disc space-y-2 pl-5">
+          <li>
+            <strong>주택가격전망 CSI</strong>: 설문 자체가 &quot;1년 후&quot;를 묻는 구조라
+            설계상 <strong>선행(전망)</strong> 성격이 맞습니다. 다만 실제로는 응답자들이 최근
+            가격 흐름을 그대로 연장해서 답하는 경향(적응적 기대)이 있어, 선행성이 이론만큼
+            깨끗하게 나타나진 않습니다 — 두 지수가 거의 동시에 같이 움직이는 구간이 많은 것도
+            이 때문입니다.
+          </li>
+          <li>
+            <strong>주택시장 소비심리지수</strong>: &quot;후행&quot;보다는 <strong>동행(coincident)</strong>{" "}
+            지표로 보는 게 더 정확합니다. 이미 확정된 과거 추세를 뒤늦게 확인해주는 지표(예:
+            실업률 같은 전형적 후행지표)가 아니라, 중개업소·소비자가 <strong>지금 이 순간</strong>{" "}
+            체감하는 거래·가격 분위기를 반영하는 거라 &quot;현재 상황&quot;에 더 가깝습니다.
+          </li>
+        </ul>
+        <p className="mt-3">
+          정리하면 &quot;CSI=선행, 소비심리지수=후행&quot;보다는 &quot;CSI=선행(전망 기반, 단
+          연장 편향 있음), 소비심리지수=동행(현재 체감 기반)&quot;이 더 정확한 해석입니다.
+        </p>
+      </div>
+
       <section className="flex flex-col gap-3">
         <div>
           <h2 className="text-base font-semibold text-neutral-800">수도권 주택가격전망 CSI</h2>
