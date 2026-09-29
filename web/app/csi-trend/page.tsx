@@ -40,8 +40,11 @@ export default function CsiTrendPage() {
           </li>
         </ul>
         <p className="mt-3">
-          정리하면 &quot;CSI=선행, 소비심리지수=후행&quot;보다는 &quot;CSI=선행(전망 기반, 단
-          연장 편향 있음), 소비심리지수=동행(현재 체감 기반)&quot;이 더 정확한 해석입니다.
+          정리하면 &quot;CSI=선행, 소비심리지수=후행&quot;보다는{" "}
+          <strong className="text-amber-700">
+            &quot;CSI=선행(전망 기반, 단 연장 편향 있음), 소비심리지수=동행(현재 체감 기반)&quot;
+          </strong>
+          이 더 정확한 해석입니다.
         </p>
       </div>
 
@@ -71,7 +74,7 @@ export default function CsiTrendPage() {
               <strong>100 미만</strong>: 하락할 것이라는 응답이 우세
             </li>
           </ul>
-          <p className="mt-3">
+          <p className="mt-3 font-medium text-amber-700">
             예를 들어 CSI가 120이라면 주택가격이 20% 오른다는 뜻이 아니라, 상승을 예상하는
             소비자가 하락을 예상하는 소비자보다 상당히 많다는 의미입니다.
           </p>
@@ -140,7 +143,7 @@ export default function CsiTrendPage() {
               </tbody>
             </table>
           </div>
-          <p className="mt-3">
+          <p className="mt-3 font-medium text-amber-700">
             예를 들어 지수 125는 가격이 25% 오른다는 뜻이 아니라, 매수·거래·가격에 대한 시장
             참여자들의 체감이 강한 &quot;상승 국면&quot;이라는 의미입니다.
           </p>
