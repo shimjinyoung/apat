@@ -31,7 +31,7 @@ export function HousingSentimentChart({ national, capital }: { national: RawRead
           <YAxis tick={{ fontSize: 11 }} width={40} domain={["auto", "auto"]} />
           <Tooltip labelFormatter={(l) => `기준월 ${l}`} />
           <Legend wrapperStyle={{ fontSize: 12 }} formatter={(v) => ({ national: "전국", capital: "수도권" })[v as string] ?? v} />
-          <ReferenceLine y={100} stroke="#c3c2b7" strokeDasharray="4 4" />
+          <ReferenceLine y={100} stroke="#52514e" strokeWidth={1.5} strokeDasharray="6 4" />
           <Line type="monotone" dataKey="national" stroke="#4a3aa7" strokeWidth={2} dot={false} connectNulls isAnimationActive={false} />
           <Line type="monotone" dataKey="capital" stroke="#e34948" strokeWidth={2} dot={false} connectNulls isAnimationActive={false} />
         </LineChart>
