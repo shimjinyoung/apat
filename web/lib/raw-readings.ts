@@ -13,7 +13,10 @@ export type AuxSeriesId =
   | "csi_housing_gyeonggi"
   | "csi_housing_incheon"
   | "housing_sentiment_national"
-  | "housing_sentiment_capital";
+  | "housing_sentiment_capital"
+  | "khai_seoul"
+  | "khai_gyeonggi"
+  | "khai_incheon";
 
 export type SeriesId = IndicatorId | AuxSeriesId;
 

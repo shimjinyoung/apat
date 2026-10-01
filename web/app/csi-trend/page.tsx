@@ -1,6 +1,7 @@
 import { loadHistory } from "@/lib/raw-readings";
 import { CsiTrendChart } from "@/components/CsiTrendChart";
 import { HousingSentimentChart } from "@/components/HousingSentimentChart";
+import { KhaiTrendChart } from "@/components/KhaiTrendChart";
 
 export default function CsiTrendPage() {
   const history = loadHistory();
@@ -12,6 +13,11 @@ export default function CsiTrendPage() {
   const sentimentNational = history?.housing_sentiment_national ?? [];
   const sentimentCapital = history?.housing_sentiment_capital ?? [];
   const hasSentimentData = sentimentNational.length > 0 || sentimentCapital.length > 0;
+
+  const khaiSeoul = history?.khai_seoul ?? [];
+  const khaiGyeonggi = history?.khai_gyeonggi ?? [];
+  const khaiIncheon = history?.khai_incheon ?? [];
+  const hasKhaiData = khaiSeoul.length > 0 || khaiGyeonggi.length > 0 || khaiIncheon.length > 0;
 
   return (
     <div className="flex flex-col gap-8">
@@ -169,6 +175,56 @@ export default function CsiTrendPage() {
           출처: KOSIS 국가통계포털 경유 국토연구원 「부동산시장 소비자심리조사」(통계표
           DT_39002_02, 주택시장 소비심리지수). 매일 08:00 자동 배치로 최신월 값을 갱신합니다(발표
           시차 고려해 최근 6개월 조회 후 최신값 반영).
+        </p>
+      </section>
+
+      <section className="flex flex-col gap-3">
+        <div>
+          <h2 className="text-base font-semibold text-neutral-800">주택구입부담지수(K-HAI)</h2>
+          <p className="mt-1 text-sm text-neutral-600">
+            한국주택금융공사 HOUSTAT의 주택구입부담지수(100 기준선, 위=대출상환 부담 큼)를
+            서울·경기·인천 3개 지역으로 분기마다 자동 갱신해 보여줍니다. 위 두 지표와 달리 CSI·
+            소비심리지수가 아니라 <strong>실제 소득·대출금리·주택가격으로 계산되는 산식 지표</strong>라,
+            심리가 아닌 객관적인 구입 부담 수준을 보여줍니다.
+          </p>
+        </div>
+
+        <div className="rounded-lg border border-neutral-200 bg-neutral-50 p-4 text-sm text-neutral-700">
+          <p>
+            한국주택금융공사가 <strong>중위소득가구가 표준대출로 중위가격 주택을 구입할 때의
+            대출상환 부담</strong>을 지수화한 것입니다. 산출식은 K-HAI = 대출상환가능소득 ÷
+            중위가구소득 × 100이며, CSI·소비심리지수와 달리{" "}
+            <strong className="text-amber-700">
+              100을 기준으로 낮을수록 구입 부담이 적고(좋음), 높을수록 부담이 큽니다(나쁨) — 방향이
+              반대인 지표
+            </strong>
+            입니다.
+          </p>
+          <p className="mt-3">
+            예를 들어 서울 K-HAI가 185라면, 서울의 중위소득 가구가 서울 중위가격 주택을 살 때
+            적정부담액(소득의 약 25%)의 185%를 대출 원리금 상환에 써야 한다는 뜻입니다 — 숫자가
+            클수록 그만큼 내 집 마련이 버겁다는 의미입니다.
+          </p>
+          <p className="mt-3">
+            &quot;수도권&quot; 단일 공식 수치는 역시 없습니다 — 한국주택금융공사도 17개 광역지자체를
+            개별적으로만 제공해 서울·경기·인천을 나란히 표시합니다.
+          </p>
+        </div>
+
+        {hasKhaiData ? (
+          <div className="rounded-lg border border-neutral-200 bg-white p-4 sm:p-6">
+            <KhaiTrendChart seoul={khaiSeoul} gyeonggi={khaiGyeonggi} incheon={khaiIncheon} />
+          </div>
+        ) : (
+          <p className="rounded-lg border border-neutral-200 bg-white p-6 text-sm text-neutral-400">
+            아직 데이터가 없습니다. 파이프라인을 한 번 실행해주세요.
+          </p>
+        )}
+
+        <p className="text-xs text-neutral-400">
+          출처: 한국주택금융공사 HOUSTAT(주택금융통계시스템) 주택구입부담지수(통계표ID
+          T186503126543136). 분기 단위 발표. 매일 08:00 자동 배치로 최신 분기 값을
+          갱신합니다(발표 시차 고려해 최근 3개 분기 조회 후 최신값 반영).
         </p>
       </section>
     </div>

@@ -1,12 +1,12 @@
 [
   {
     "indicatorId": "auction_case_count",
-    "asOf": "2026-09-29",
-    "value": 282.0,
+    "asOf": "2026-10-01",
+    "value": 357.0,
     "sourceName": "태인경매 낙찰통계(최근 1개월 롤링)",
     "sourceUrl": "https://www.taein.co.kr/auction/statistics/main_stat.php",
     "note": "최근 1개월 롤링 기준 서울 아파트 경매 진행건수",
-    "collectedAt": "2026-09-29 08:59:19"
+    "collectedAt": "2026-10-01 13:43:36"
   },
   {
     "indicatorId": "auction_win_price_ratio",
@@ -15,7 +15,7 @@
     "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
     "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
     "note": "2026-08 서울 아파트 경매 215건 중 72건 매각(법원 공식 집계)",
-    "collectedAt": "2026-09-29 08:59:25"
+    "collectedAt": "2026-09-30 08:00:19"
   },
   {
     "indicatorId": "auction_win_rate",
@@ -24,16 +24,16 @@
     "sourceName": "대법원 법원경매정보 용도별 매각통계(서울, 아파트)",
     "sourceUrl": "https://www.courtauction.go.kr/pgj/index.on?w2xPath=%2Fpgj%2Fui%2Fpgj100%2FPGJ164M01.xml",
     "note": "2026-08 서울 아파트 경매 215건 중 72건 매각(법원 공식 집계)",
-    "collectedAt": "2026-09-29 08:59:25"
+    "collectedAt": "2026-09-30 08:00:19"
   },
   {
     "indicatorId": "base_rate",
-    "asOf": "2026-08-01",
+    "asOf": "2026-09-01",
     "value": 3.0,
     "sourceName": "한국은행 ECOS 한국은행 기준금리",
     "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
-    "note": "2026-08 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
-    "collectedAt": "2026-09-29 08:59:21"
+    "note": "2026-09 한국은행 기준금리(월말 기준, 연 %) — 참고용, 채점 미반영",
+    "collectedAt": "2026-10-01 13:43:38"
   },
   {
     "indicatorId": "csi_housing_gyeonggi",
@@ -42,7 +42,7 @@
     "sourceName": "한국은행 ECOS 소비자동향조사(지역별, 경기)",
     "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
     "note": "2026-09 주택가격전망CSI(경기) — 참고용, 채점 미반영",
-    "collectedAt": "2026-09-29 08:59:24"
+    "collectedAt": "2026-10-01 13:43:42"
   },
   {
     "indicatorId": "csi_housing_incheon",
@@ -51,7 +51,7 @@
     "sourceName": "한국은행 ECOS 소비자동향조사(지역별, 인천)",
     "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
     "note": "2026-09 주택가격전망CSI(인천) — 참고용, 채점 미반영",
-    "collectedAt": "2026-09-29 08:59:24"
+    "collectedAt": "2026-10-01 13:43:42"
   },
   {
     "indicatorId": "csi_housing_seoul",
@@ -60,34 +60,34 @@
     "sourceName": "한국은행 ECOS 소비자동향조사(전국 기준, 서울)",
     "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
     "note": "2026-09 주택가격전망CSI(서울) — 참고용, 채점 미반영",
-    "collectedAt": "2026-09-29 08:59:24"
+    "collectedAt": "2026-10-01 13:43:42"
   },
   {
     "indicatorId": "housing_sentiment_capital",
-    "asOf": "2026-07-01",
-    "value": 123.4,
+    "asOf": "2026-08-01",
+    "value": 122.3,
     "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
     "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
-    "note": "2026-07 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
-    "collectedAt": "2026-09-29 08:59:25"
+    "note": "2026-08 주택시장 소비심리지수(수도권). 참고용 표시 지표 — 채점 미반영.",
+    "collectedAt": "2026-10-01 13:43:43"
   },
   {
     "indicatorId": "housing_sentiment_national",
-    "asOf": "2026-07-01",
-    "value": 116.1,
+    "asOf": "2026-08-01",
+    "value": 115.1,
     "sourceName": "KOSIS(국가통계포털) 경유 국토연구원 부동산시장 소비자심리조사(주택시장)",
     "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=390&tblId=DT_39002_02",
-    "note": "2026-07 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
-    "collectedAt": "2026-09-29 08:59:25"
+    "note": "2026-08 주택시장 소비심리지수(전국). 참고용 표시 지표 — 채점 미반영.",
+    "collectedAt": "2026-10-01 13:43:43"
   },
   {
     "indicatorId": "jeonse_ratio",
-    "asOf": "2026-09-14",
-    "value": 102.2471698,
+    "asOf": "2026-09-21",
+    "value": 102.443364,
     "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 전세가격지수",
     "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_004_C",
     "note": "전세가격지수 (기준주 2026.7.6=100.0) — 원래 '전세가율' 대신 대체",
-    "collectedAt": "2026-09-29 08:59:16"
+    "collectedAt": "2026-10-01 13:43:33"
   },
   {
     "indicatorId": "jeonse_supply_demand_index",
@@ -96,7 +96,34 @@
     "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 전세수급동향",
     "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_40803_N0009",
     "note": "100 기준선 diffusion index, 100 초과=전세 수요 우위(품귀). 월간, 약 1개월 발표 시차",
-    "collectedAt": "2026-09-29 08:59:18"
+    "collectedAt": "2026-10-01 13:43:35"
+  },
+  {
+    "indicatorId": "khai_gyeonggi",
+    "asOf": "2026-06-30",
+    "value": 81.2,
+    "sourceName": "한국주택금융공사 HOUSTAT(주택금융통계시스템) 주택구입부담지수(K-HAI)",
+    "sourceUrl": "https://houstat.hf.go.kr/research/portal/theme/indexStatKHAIPage.do",
+    "note": "2026년 2분기 주택구입부담지수(경기). 참고용 표시 지표 — 채점 미반영. 100 초과=대출상환 부담 큼.",
+    "collectedAt": "2026-10-01 13:43:45"
+  },
+  {
+    "indicatorId": "khai_incheon",
+    "asOf": "2026-06-30",
+    "value": 66.8,
+    "sourceName": "한국주택금융공사 HOUSTAT(주택금융통계시스템) 주택구입부담지수(K-HAI)",
+    "sourceUrl": "https://houstat.hf.go.kr/research/portal/theme/indexStatKHAIPage.do",
+    "note": "2026년 2분기 주택구입부담지수(인천). 참고용 표시 지표 — 채점 미반영. 100 초과=대출상환 부담 큼.",
+    "collectedAt": "2026-10-01 13:43:45"
+  },
+  {
+    "indicatorId": "khai_seoul",
+    "asOf": "2026-06-30",
+    "value": 185.3,
+    "sourceName": "한국주택금융공사 HOUSTAT(주택금융통계시스템) 주택구입부담지수(K-HAI)",
+    "sourceUrl": "https://houstat.hf.go.kr/research/portal/theme/indexStatKHAIPage.do",
+    "note": "2026년 2분기 주택구입부담지수(서울). 참고용 표시 지표 — 채점 미반영. 100 초과=대출상환 부담 큼.",
+    "collectedAt": "2026-10-01 13:43:45"
   },
   {
     "indicatorId": "mortgage_delinquency",
@@ -105,16 +132,16 @@
     "sourceName": "한국은행 ECOS 예금은행 지역별 연체율(주택관련대출, 서울)",
     "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
     "note": "서울 지역 국내은행 주택관련대출 연체율(1개월 이상 연체 기준, %)",
-    "collectedAt": "2026-09-29 08:59:20"
+    "collectedAt": "2026-10-01 13:43:37"
   },
   {
     "indicatorId": "mortgage_rate",
-    "asOf": "2026-07-01",
-    "value": 4.48,
+    "asOf": "2026-08-01",
+    "value": 4.66,
     "sourceName": "한국은행 ECOS 예금은행 대출금리(신규취급액, 주택담보대출)",
     "sourceUrl": "https://ecos.bok.or.kr/#/SearchStat",
-    "note": "2026-07 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
-    "collectedAt": "2026-09-29 08:59:21"
+    "note": "2026-08 예금은행 주택담보대출 신규취급액 기준 가중평균금리(연 %)",
+    "collectedAt": "2026-10-01 13:43:38"
   },
   {
     "indicatorId": "move_in_volume",
@@ -123,7 +150,7 @@
     "sourceName": "부동산R114/언론 보도 (2026-09-13 웹검색 백필)",
     "sourceUrl": "https://r114.com/",
     "note": "2026-09 서울 입주 예정가구수(전국 1만4,174가구 중 서울 3,438가구). 6년5개월만 전국 최저치 국면. 웹 검색 백필. ⚠️ 2025-10·11, 2026-01~05는 '서울' 단독 월간 합계 수치를 못 찾아 공백(수도권/전국 수치는 정의가 달라 사용 안 함, 개별 단지 세대수만으로는 월간 총량 추정 불가).",
-    "collectedAt": "2026-09-29 08:59:25"
+    "collectedAt": "2026-10-01 13:43:46"
   },
   {
     "indicatorId": "price_avg_per_sqm",
@@ -132,25 +159,25 @@
     "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 아파트 매매 실거래 평균가격",
     "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S15",
     "note": "2026-07 서울 아파트 실거래 평균가격(㎡당 만원). 참고용 표시 지표 — 채점 미반영.",
-    "collectedAt": "2026-09-29 08:59:14"
+    "collectedAt": "2026-10-01 13:43:31"
   },
   {
     "indicatorId": "price_index_weekly",
-    "asOf": "2026-09-14",
-    "value": 102.3925015,
+    "asOf": "2026-09-21",
+    "value": 102.5299623,
     "sourceName": "KOSIS(국가통계포털) 경유 한국부동산원 주간 아파트 매매가격지수",
     "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_304004_WEEK_002_C",
     "note": "지수 (기준주 2026.7.6=100.0)",
-    "collectedAt": "2026-09-29 08:59:13"
+    "collectedAt": "2026-10-01 13:43:30"
   },
   {
     "indicatorId": "trade_volume",
-    "asOf": "2026-08-01",
-    "value": 3592.0,
+    "asOf": "2026-09-01",
+    "value": 2017.0,
     "sourceName": "국토부 실거래가 Open API (data.go.kr)",
     "sourceUrl": "https://www.data.go.kr/data/15126468/openapi.do",
-    "note": "서울 25개 구 합산, 신고 기준월 202608 (신고기한 30일 유의)",
-    "collectedAt": "2026-09-29 08:59:12"
+    "note": "서울 25개 구 합산, 신고 기준월 202609 (신고기한 30일 유의)",
+    "collectedAt": "2026-10-01 13:43:28"
   },
   {
     "indicatorId": "unsold_housing",
@@ -159,6 +186,6 @@
     "sourceName": "KOSIS(국가통계포털) 경유 국토교통부 시·군·구별 미분양현황",
     "sourceUrl": "https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_2082",
     "note": "서울시 전체(25개 구 합계), 월간. 준공후 미분양 구분은 이 표에 없음",
-    "collectedAt": "2026-09-29 08:59:13"
+    "collectedAt": "2026-10-01 13:43:29"
   }
 ]

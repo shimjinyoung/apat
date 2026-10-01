@@ -16,6 +16,7 @@ load_dotenv()
 MOLIT_SERVICE_KEY = os.getenv("MOLIT_SERVICE_KEY", "")
 KOSIS_API_KEY = os.getenv("KOSIS_API_KEY", "")
 ECOS_API_KEY = os.getenv("ECOS_API_KEY", "")
+HF_API_KEY = os.getenv("HF_API_KEY", "")  # 한국주택금융공사 HOUSTAT Open API (K-HAI)
 
 
 def require(key_value: str, key_name: str, signup_url: str) -> str:
