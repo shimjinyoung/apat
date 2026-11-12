@@ -52,6 +52,64 @@ function groupCandidates(trades: ApartmentTrade[]): Candidate[] {
   return [...map.values()].sort((a, b) => b.count - a.count);
 }
 
+// 평형(전용면적 반올림)별 최고가와 해당 거래일 — 차트 범례와 동일한 평형 기준
+function MaxPriceTable({ trades }: { trades: ApartmentTrade[] }) {
+  const byArea = new Map<number, { max: ApartmentTrade; count: number }>();
+  for (const t of trades) {
+    const area = Math.round(t.excluUseAreaSqm);
+    const cur = byArea.get(area);
+    if (!cur) {
+      byArea.set(area, { max: t, count: 1 });
+    } else {
+      cur.count++;
+      // 동가일 때는 더 최근 거래를 최고가 사례로 표시
+      if (
+        t.dealAmountManwon > cur.max.dealAmountManwon ||
+        (t.dealAmountManwon === cur.max.dealAmountManwon && t.date > cur.max.date)
+      ) {
+        cur.max = t;
+      }
+    }
+  }
+  const rows = [...byArea.entries()].sort((a, b) => a[0] - b[0]);
+  const fmtEok = (manwon: number) => `${(manwon / 10000).toFixed(2)}억`;
+
+  return (
+    <div className="flex flex-col gap-1">
+      <h3 className="text-sm font-medium">평형별 최고가 (최근 3년)</h3>
+      <div className="overflow-x-auto">
+        <table className="w-full min-w-[420px] border-collapse text-sm">
+          <thead>
+            <tr className="border-b border-neutral-300 text-left text-xs text-neutral-500">
+              <th className="py-1.5 pr-3 font-medium">전용면적</th>
+              <th className="py-1.5 pr-3 text-right font-medium">최고가</th>
+              <th className="py-1.5 pr-3 font-medium">거래일</th>
+              <th className="py-1.5 pr-3 font-medium">층</th>
+              <th className="py-1.5 text-right font-medium">거래 건수</th>
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map(([area, { max, count }]) => (
+              <tr key={area} className="border-b border-neutral-100">
+                <td className="py-1.5 pr-3">{area}㎡</td>
+                <td className="py-1.5 pr-3 text-right font-semibold text-red-600">
+                  {fmtEok(max.dealAmountManwon)}
+                  <span className="ml-1 text-xs font-normal text-neutral-400">
+                    ({max.dealAmountManwon.toLocaleString()}만원)
+                  </span>
+                </td>
+                <td className="py-1.5 pr-3">{max.date}</td>
+                <td className="py-1.5 pr-3">{max.floor}층</td>
+                <td className="py-1.5 text-right text-neutral-500">{count}건</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
+}
+
 function ResultView({
   trades,
   selectedKey,
@@ -124,6 +182,7 @@ function ResultView({
         )}
       </div>
       <ApartmentTradeChart trades={selected.trades} />
+      <MaxPriceTable trades={selected.trades} />
     </>
   );
 }
